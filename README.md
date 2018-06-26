@@ -1,0 +1,2 @@
+# Using Kendo UI in SAP UI5 Applications
+This is a companion repository to my blog [Using Kendo UI in SAP UI5 Applications](https://www.newventuresoftware.com/blog/using-kendo-ui-in-sap-ui5-applications)
